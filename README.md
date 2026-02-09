@@ -24,3 +24,7 @@ HTTP package for API calls
 just_audio package for music playback
 
 This project is useful for beginners to understand API integration, audio streaming, and state management in Flutter.
+
+## App Output
+
+![App Output](screenshots/output.png)
